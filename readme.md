@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://robocode.sourceforge.io/gfx/robocode_logo_tanks.png))
+
 # Her kan du tilføje din robot.
 
 Du skal sørge for at dit packagename er A23HX2PROG
