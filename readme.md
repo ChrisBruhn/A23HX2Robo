@@ -1,4 +1,6 @@
-![alt text]([http://url/to/img.png](https://robocode.sourceforge.io/gfx/robocode_logo_tanks.png))
+![alt text](http://url/to/img.png](https://robocode.sourceforge.io/gfx/robocode_logo_tanks.png)
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+
 
 # Her kan du tilføje din robot.
 
